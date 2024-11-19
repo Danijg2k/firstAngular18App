@@ -10,4 +10,7 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'firstAngular18App';
+
+  saludo: string = "Hola Mundo!";
+
 }
